@@ -1,0 +1,53 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  
+  border-bottom: 2px solid #adc698;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.platform__logo{
+  height: 48px;
+  width: 48px;
+}
+
+.header__left {
+  align-items: center;
+  margin-left: 20px;
+}
+
+.header__left > .MuiSvgIcon-root {
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+.header__search {
+  font-weight: bolder;
+  font-size: larger;
+  text-align: center;
+  display: flex;
+  color: #000000;
+}
+
+.header__search > input {
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  min-width: 30vw;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.header__right {
+  margin-right: 20px;
+  text-align: center;
+  align-items: flex-end;
+}
+
+.header__right > .MuiSvgIcon-root {
+  margin-left: auto;
+  margin-right: 20px;
+}

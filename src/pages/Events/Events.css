@@ -1,0 +1,32 @@
+.event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  padding: 10px;
+}
+
+.event_img_box {
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.event_img_box img {
+  border-radius: 100%;
+  width: 90px;
+  height: 90px;
+}
+
+.content_box {
+  display: flex;
+  flex-direction: column;
+}
+
+.event_action_bar {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}

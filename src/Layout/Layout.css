@@ -1,0 +1,8 @@
+body {
+  --slack-color: #adc698;
+}
+
+.layout__body {
+  display: flex;
+  height: 100%;
+}
