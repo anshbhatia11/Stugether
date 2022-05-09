@@ -1,17 +1,17 @@
 import "./Home.css";
 import Header from "../../components/Header/Header";
 import Sidebar from "../../components/Sidebar/Sidebar";
+import React from "react";
 
 function Home() {
-  return (
-    <div className="home">
-      <Header />
-      <main className="home__body">
-        
-        <Sidebar />
-      </main>
-    </div>
-  );
+    return (
+        <div className="home">
+            <Header />
+            <main className="home__body">
+                <Sidebar />
+            </main>
+        </div>
+    );
 }
 
 export default Home;
