@@ -2,7 +2,9 @@
 
 Notes:
 Design Wireframes updated till a final stage
+
 Version 1(public chat system) updated
+
 Version 2(Event management system) currently under procedure
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
@@ -13,6 +15,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Use npm install to install
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Make sure to check localhost:3000 is available. If not it will ask to provide localhost:3001 or further.
