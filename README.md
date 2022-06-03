@@ -3,7 +3,7 @@
 Notes:
 Design Wireframes updated till a final stage
 
-Version 1(public chat system) updated
+Version 1 : (public chat system) updated V 1.0.1
 
 Version 2(Event management system) currently under procedure
 
